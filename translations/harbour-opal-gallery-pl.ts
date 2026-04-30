@@ -120,7 +120,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>portugalski brazylijski</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
@@ -750,7 +750,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="80"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Używasz sieci komórkowej.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="93"/>

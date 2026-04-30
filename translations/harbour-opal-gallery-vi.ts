@@ -35,7 +35,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="70"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ukraine</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="78"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="97"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Tây Ban Nha</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
@@ -65,12 +65,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="114"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Nga</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Roman</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="147"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ý</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="178"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="191"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Anh</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="197"/>
@@ -115,27 +115,27 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="210"/>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Trung Quốc</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="219"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Bồ Đào Nha (Brazil)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Đức</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="168"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Pháp</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Indonesia</translation>
     </message>
 </context>
 <context>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đang sử dụng dữ liệu di động.</translation>
     </message>
 </context>
 <context>
@@ -458,7 +458,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="203"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Về</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="214"/>
@@ -676,7 +676,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="131"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dữ liệu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="132"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="135"/>
         <source>Data License</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép dữ liệu</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="141"/>
@@ -709,12 +709,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="152"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Lập trình</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="156"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiết kế biểu tượng</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="162"/>
@@ -725,12 +725,12 @@
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="165"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Anh</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="169"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Đức</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-about/gallery.qml" line="179"/>
@@ -908,7 +908,7 @@
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="105"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Chi tiết</translation>
     </message>
     <message>
         <location filename="../qml/module-pages/opal-combodata/gallery.qml" line="106"/>
