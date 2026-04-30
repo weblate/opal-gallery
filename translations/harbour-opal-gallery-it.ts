@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="33"/>
         <source>Maintainers</source>
-        <translation>Mantenitori</translation>
+        <translation>Manutentori</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutModulePageBase.qml" line="37"/>
@@ -45,7 +45,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="84"/>
         <source>Tamil</source>
-        <translation>tamil</translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="97"/>
         <source>Spanish</source>
-        <translation>spagnolo</translation>
+        <translation>Spagnolo</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Per favore, considera di contribuire al progetto in un modo o l&apos;altro.</translation>
+        <translation>Per favore, considera di contribuire al progetto in un modo o nell&apos;altro.</translation>
     </message>
 </context>
 <context>
@@ -187,7 +187,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="218"/>
         <source>Swipe left to preview.</source>
-        <translation>Scorri verso sinistra per visualizzare l&apos;anteprima.</translation>
+        <translation>Scorri a sinistra per l&apos;anteprima.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="219"/>
@@ -618,7 +618,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Supportaci con manutenzione e pacchettizzazione, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
+        <translation>Supportaci con manutenzione e impacchettamento, scrivendo codice, o fornendoci dettagliati report di bug.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="36"/>
@@ -633,7 +633,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="45"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo ed impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
+        <translation>Sviluppo Software Libero perché sono convinto che sia la cosa più etica da fare - ed è un&apos;hobby divertente. Ad ogni modo, sviluppare software richiede molto tempo e impegno. Siccome Sailfish e vivere in generale richiedono soldi, ho bisogno del tuo supporto per poter spendere tempo in progetti non remunerati come questo.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="55"/>
@@ -643,7 +643,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="58"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza, o di più.</translation>
+        <translation>Se puoi farlo, donare è il miglior modo di assicurarti che io continui a sviluppare app per Sailfish. Ogni cifra è apprezzata, che sia una tazza di caffè, un pezzo di pizza o altro.</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="742"/>
         <source>About</source>
-        <translation>In riguardo</translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="789"/>
@@ -819,7 +819,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="74"/>
         <source>Download license texts</source>
-        <translation>Scarica i testi delle licenze</translation>
+        <translation>Scarica testi delle licenze</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="36"/>
@@ -844,7 +844,7 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="837"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="26"/>
         <source>Changelog</source>
-        <translation>Registro delle modifiche</translation>
+        <translation>Rapporto delle modifiche</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="214"/>
@@ -1214,7 +1214,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="174"/>
         <source>Copy link</source>
-        <translation>Copia link</translation>
+        <translation>Copia collegamento</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="179"/>
